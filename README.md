@@ -7,13 +7,9 @@ Voting Machine is a fully customizable Javascript project.
 
 This project consists of simulating the moment of voting in an electronic ballot box, following the same steps as in a real vote. 
 
-
-## Test information
-
 <a href="https://danielleoliveira-dev.github.io/urnaEletronicaProject/" target="_blank" >Clique Here to access it!</a>
 
-
-Candidate Registration:
+Test information - "Candidate Registration" :
 
 - VEREADOR<br>
 
