@@ -10,7 +10,8 @@ This project consists of simulating the moment of voting in an electronic ballot
 
 ## Test information
 
-### To access it: https://danielleoliveira-dev.github.io/urnaEletronicaProject/
+<a href="https://danielleoliveira-dev.github.io/urnaEletronicaProject/" target=_blank>Clique Here to access it!</a>
+
 
 Candidate Registration:
 
